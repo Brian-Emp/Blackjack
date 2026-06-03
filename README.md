@@ -1,4 +1,4 @@
-# 🃏 Blackjack
+# 🃏 The Blackjack
 
 A simple command-line **Blackjack** game written in Python. Place a bet, draw cards against the dealer, and try to beat them without going over 21!
 
@@ -62,4 +62,4 @@ Blackjack/
 
 ---
 
-> Made by [Brian-Emp](https://github.com/Brian-Emp) 🛴
+> Made by [Brian-Emp](https://github.com/Brian-Emp) 
